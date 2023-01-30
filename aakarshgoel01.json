@@ -1,0 +1,24 @@
+{
+"name": "Aakarsh goel",
+"type": "personal",
+"bio": "Engineer,travel enthusiast,Poetry lover",
+"avatar": "https://github.com/aakarshgoel01"
+"links": [
+ 
+ {
+"name": "Instagram"
+"url": "https://www.instagram.com/aakarsh__2/",
+"icon":"FaInstagram"
+ },
+ {
+"name": "LinkedIn".
+"url": "https://www.linkedin.com/in/aakarsh-goel-5438b3257",
+"icon": "FaLinkedin"
+ },
+ {
+"name": "GitHub".
+"url": "https://github.com/aakarshgoel01",
+"icon": "FaGithub"
+ } 
+]
+}
